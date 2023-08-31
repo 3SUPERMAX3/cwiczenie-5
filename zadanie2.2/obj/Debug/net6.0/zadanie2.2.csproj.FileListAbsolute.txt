@@ -1,0 +1,15 @@
+C:\Users\senbo\source\repos\zadanie2.2\zadanie2.2\bin\Debug\net6.0\zadanie2.2.exe
+C:\Users\senbo\source\repos\zadanie2.2\zadanie2.2\bin\Debug\net6.0\zadanie2.2.deps.json
+C:\Users\senbo\source\repos\zadanie2.2\zadanie2.2\bin\Debug\net6.0\zadanie2.2.runtimeconfig.json
+C:\Users\senbo\source\repos\zadanie2.2\zadanie2.2\bin\Debug\net6.0\zadanie2.2.dll
+C:\Users\senbo\source\repos\zadanie2.2\zadanie2.2\bin\Debug\net6.0\zadanie2.2.pdb
+C:\Users\senbo\source\repos\zadanie2.2\zadanie2.2\obj\Debug\net6.0\zadanie2.2.csproj.AssemblyReference.cache
+C:\Users\senbo\source\repos\zadanie2.2\zadanie2.2\obj\Debug\net6.0\zadanie2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senbo\source\repos\zadanie2.2\zadanie2.2\obj\Debug\net6.0\zadanie2.2.AssemblyInfoInputs.cache
+C:\Users\senbo\source\repos\zadanie2.2\zadanie2.2\obj\Debug\net6.0\zadanie2.2.AssemblyInfo.cs
+C:\Users\senbo\source\repos\zadanie2.2\zadanie2.2\obj\Debug\net6.0\zadanie2.2.csproj.CoreCompileInputs.cache
+C:\Users\senbo\source\repos\zadanie2.2\zadanie2.2\obj\Debug\net6.0\zadanie2.2.dll
+C:\Users\senbo\source\repos\zadanie2.2\zadanie2.2\obj\Debug\net6.0\refint\zadanie2.2.dll
+C:\Users\senbo\source\repos\zadanie2.2\zadanie2.2\obj\Debug\net6.0\zadanie2.2.pdb
+C:\Users\senbo\source\repos\zadanie2.2\zadanie2.2\obj\Debug\net6.0\zadanie2.2.genruntimeconfig.cache
+C:\Users\senbo\source\repos\zadanie2.2\zadanie2.2\obj\Debug\net6.0\ref\zadanie2.2.dll
